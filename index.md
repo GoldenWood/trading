@@ -1,4 +1,5 @@
----
-title: Welcome to my blog
----
+## Học trading
 
+## Các chỉ báo kỹ thuật
+
+## Phương pháp giao dịch
