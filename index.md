@@ -1,5 +1,3 @@
-## Học trading
-
-## Các chỉ báo kỹ thuật
-
-## Phương pháp giao dịch
+---
+title: Học Trading & Phân tích kỹ thuật
+---
